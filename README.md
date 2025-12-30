@@ -26,3 +26,9 @@ To run this project, follow these commands in your terminal:
    ```bash
    java Main
 ## D. Screenshots
+<img width="500" height="754" alt="image" src="https://github.com/user-attachments/assets/dc6f992c-b4d4-4c2e-8612-d70c5c3ad5c2" />
+## E. Reflection
+
+Inheritance: Using inheritance significantly simplified the design by allowing me to write common code (like displayInfo) only once in the Vehicle class instead of repeating it in every vehicle type.
+Method Overriding: Overriding allowed each vehicle to have its own "personality" — for example, a motorcycle starts with a kick, while a truck diesel engine roars.
+Challenges: The main challenge was correctly using super() in constructors to ensure that the brand and year are properly initialized in the parent class before the subclass adds its own data.
