@@ -22,3 +22,5 @@ To run this project, follow these commands in your terminal:
 1. **Compile all files:**
    ```bash
    javac *.java
+2. **Run the program:**
+   java Main
