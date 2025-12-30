@@ -25,3 +25,4 @@ To run this project, follow these commands in your terminal:
 2. **Run the program:**
    ```bash
    java Main
+## D. Screenshots
